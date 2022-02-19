@@ -40,7 +40,7 @@ public class MainClass {
         System.out.println("umn1 = :" + umn1);
         System.out.println("-------------");
 
-    
+    //
         System.out.print("Your name: ");
         String fullName = scanner.nextLine();
         System.out.println(" My name is " + fullName);
